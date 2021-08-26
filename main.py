@@ -24,7 +24,7 @@ def main(): # Run the function
   <b>Bước 3</b>: Chờ khá lâu (không refresh, không F5), tầm 5 giây (thay vì 30 giây xem quảng cáo). Bạn sẽ thấy trình duyệt có 1 link duy nhất. Click vào link đó, Chrome sẽ phát video. Nếu video không phát mà download thì xem Bước 1, và tắt IDM nếu có. 
 
   <br><br> Không có quảng cáo <br>
-  Toàn bộ mã nguồn:  https://replit.com/@ttpro1995/vuighe-getlink
+  Toàn bộ mã nguồn:  https://github.com/ttpro1995/vuighe-getlink
   """
 
 
